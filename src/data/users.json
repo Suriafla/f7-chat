@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Kate Johnson",
+      "avatar": "https://cdn.framework7.io/placeholder/people-100x100-9.jpg",
+      "id": 0
+    },
+    {
+      "name": "Blue Ninja",
+      "avatar": "https://cdn.framework7.io/placeholder/people-100x100-7.jpg",
+      "id": 1
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "avatar": "https://whatsapp-f7-react.uiinitiative.com/avatars/mark-zuckerberg.jpg",
+      "id": 2
+    }
+  ]
